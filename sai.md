@@ -5,7 +5,6 @@ apssdc
 #### HEADER4
 ##### HEADER5
 *ITALIC*
-:HAPPY:
-:SAD:
-:BLESSED:
-:ANGRY:
+:happy:
+:sad:
+:blessed:
